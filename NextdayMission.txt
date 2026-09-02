@@ -1,2 +1,2 @@
 20260902 家中台式机的githubclone文件拷贝到移动硬盘，将scienceskill的全部skills加入ARIS的24x7流水线中，调试unlimitedOCR功能
-20260903 三台电脑协同工作模式开启
+20260903 三台电脑协同工作模式开启，mac上安装Grokbot等工具，然后探索各工具之间和多电脑协同办法
